@@ -1,5 +1,6 @@
-# Simple HTTP and REST Server
-### ⭐ [Download from Unity Asset Store](https://shadow-grove.org/ "Download from Unity Asset Store")
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShadowGroveGames/Simple-HTTP-and-REST-Server/master/ShadowGroveGames/Simple%20HTTP%20and%20REST%20Server/Resources/simple-http-and-rest-server-banner.png"><h3 align="center"><a href="https://assetstore.unity.com/packages/tools/utilities/simple-http-and-rest-server-244127?utm_source=github">Download from Unity Asset Store</a></h3>
+</p>
 
 #### 🏁 How can this asset help me?
 Exchanging information between Unity and another program is complicated. This asset provides a simple and fast way to ensure the exchange of information in both directions.
@@ -10,6 +11,8 @@ There are 3 ways to install this plugin:
 - Clone or [download](https://github.com/ShadowGroveGames/Simple-HTTP-and-REST-Server/archive/master.zip "download") this repository and move the Plugins folder to your Unity project's Assets folder
 - Add the following line to Packages/manifest.json:
   - `"org.shadow-grove.simple-http-and-rest-server": "https://github.com/ShadowGroveGames/Simple-HTTP-and-REST-Server.git",`
+- Via [OpenUPM](https://openupm.com/) after installing [openupm-cli](https://github.com/openupm/openupm-cli#openupm-cli), run the following command:
+    - `openupm add org.shadow-grove.simple-http-and-rest-server`
 - [Download from Unity Asset Store](https://shadow-grove.org/ "Download from Unity Asset Store")
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
