@@ -1,0 +1,27 @@
+{
+    "name": "org.Shadow-Grove.SimpleHttpAndRestServer.Examples",
+    "rootNamespace": "ShadowGroveGames.SimpleHttpAndRestServer.Examples",
+    "references": [
+        "GUID:88d1198d8b7a234479aefd3da185f4b1"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "LinuxStandalone64",
+        "CloudRendering",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

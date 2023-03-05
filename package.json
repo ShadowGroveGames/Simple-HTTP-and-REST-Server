@@ -1,0 +1,8 @@
+{
+  "name": "org.shadow-grove.simple-http-and-rest-server",
+  "displayName": "Simple HTTP and REST Server",
+  "version": "1.0.0",
+  "changelogUrl": "https://github.com/Luzifix/Simple-HTTP-and-REST-Server/releases",
+  "licensesUrl": "https://github.com/Luzifix/Simple-HTTP-and-REST-Server/blob/master/LICENSE.txt",
+  "description": "Use this asset to create a HTTP server within Unity to provide an REST API for exchanging data with other tools."
+}
