@@ -47,7 +47,7 @@ Under Listening Addresses you can not only select the ports to listen on, but al
 
 #### 🖥️ Multi-platform support
 - Windows (Mono/IL2CPP Builds)
-- - Linux (Mono/IL2CPP Builds)
+- Linux (Mono/IL2CPP Builds)
 - Mac OS M1 (Mono/IL2CPP Builds)
 - Mac OS Intel (Mono/IL2CPP Builds)
 - Android (Not Tested Yet)
