@@ -6,7 +6,7 @@
 Exchanging information between Unity and another program is complicated. This asset provides a simple and fast way to ensure the exchange of information in both directions.
 
 #### Installation
-There are 3 ways to install this plugin:
+There are 5 ways to install this plugin:
 - Import [SimpleHTTPandRESTServer.unitypackage](https://github.com/ShadowGroveGames/Simple-HTTP-and-REST-Server/releases/latest "SimpleHTTPandRESTServer.unitypackage") via Assets-Import Package
 - Clone or [download](https://github.com/ShadowGroveGames/Simple-HTTP-and-REST-Server/archive/master.zip "download") this repository and move the Plugins folder to your Unity project's Assets folder
 - Add the following line to Packages/manifest.json:
