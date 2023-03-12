@@ -13,7 +13,7 @@ There are 3 ways to install this plugin:
   - `"org.shadow-grove.simple-http-and-rest-server": "https://github.com/ShadowGroveGames/Simple-HTTP-and-REST-Server.git",`
 - Via [OpenUPM](https://openupm.com/) after installing [openupm-cli](https://github.com/openupm/openupm-cli#openupm-cli), run the following command:
     - `openupm add org.shadow-grove.simple-http-and-rest-server`
-- [Download from Unity Asset Store](https://shadow-grove.org/ "Download from Unity Asset Store")
+- [Download from Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/simple-http-and-rest-server-244127?utm_source=github "Download from Unity Asset Store")
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
