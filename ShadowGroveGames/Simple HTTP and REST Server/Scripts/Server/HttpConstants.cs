@@ -20,6 +20,7 @@ namespace ShadowGroveGames.SimpleHttpAndRestServer.Scripts.Server
             MethodPut,
             MethodPatch
         };
+
         public const string ContentTypeApplicationOctetStream = "application/octet-stream";
         public const string ContentTypeApplicationJson = "application/json";
         public const string ContentTypeTextHtml = "text/html";
